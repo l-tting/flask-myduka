@@ -25,19 +25,29 @@ Github enables the following
 3.Adding files to github -> choose files that you want to push to Github
 **git add .**
 
+4.Commit -> save a snapshot of your changes before pushing to github along with a relevant message
+**git commit -m "My first commit"**
 
-git add index.html
-
-
-
-
+5. **git push origin master** or **git push origin main**
 
 
+*master & main* -> branches (independent line of development)
+
+MPESA
+ -> send money
+ -> lipa na mpesa : -> paybill
+                    -> pochi la biashara
+                    -> till
+-> kcb mpesa
+-> mshwari
+
+
+*U* - untracked
+*A* - added
+*M* - modified
 
 
 
 
 
-
-
-2.updating existing code in github
+*updating existing code in github*
